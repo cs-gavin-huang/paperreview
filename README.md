@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @you-know-who-2017
 - 👀 I’m interested in Computer Vision
-- 🌱 I’m currently learning GAN
+- 🌱 I’m currently learning GAN,DRL,Object Detection
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me : send me a email == 1376397133guoli@gmail.com
 
